@@ -1,4 +1,4 @@
-# Mobile money
+# Mobile Money Transactions Reconcialliation
 Transactions reconcilliations
 After Mobile Money transactions through an external provider. At the end of each day, the company receives:
 
